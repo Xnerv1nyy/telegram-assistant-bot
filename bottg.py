@@ -2,8 +2,8 @@ import telebot
 from telebot import types
 import sqlite3
 
-TOKEN = "7908505184:AAGbGrjOg0NQvFWEagk0YIcF1l6dUUmVUdI"
-ADMIN_ID = 7510288395
+TOKEN = "Токен вашего тг бота"
+ADMIN_ID =  #Введите ваш тг Id
 
 bot = telebot.TeleBot(TOKEN)
 
